@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and deep in front end field 
 - 💞️ I’m looking to share my progress with others
 - 📫 How to reach me on:
-      hotmail :Ahmadmmasri@hotmail.com
+      hotmail :Ahmad.mmasri@hotmail.com
       gmail :ahmad256@gmail.com
 
 <!---
