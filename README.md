@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmadmmasri
+- 👋 Hi, I’m Ahmad
 - 👀 I’m interested in building web applications & design
 - 🌱 I’m currently learning React and deep in front end field 
 - 💞️ I’m looking to share my progress with others
